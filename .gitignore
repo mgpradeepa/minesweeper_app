@@ -13,3 +13,8 @@ hs_err_pid*
 
 # target folder
 */target/*
+
+#setting files
+*.classpath
+*.project
+*.settings/*
